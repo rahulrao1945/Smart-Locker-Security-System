@@ -1,0 +1,11 @@
+Libraries Required:
+
+ArduinoJson
+ESP32Servo
+HTTPClient
+Keypad
+LiquidCrystal_I2C
+Preferences
+WebServer
+WiFi
+Wire
