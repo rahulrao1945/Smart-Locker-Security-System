@@ -40,3 +40,4 @@ Features:
 - GSM alerts
 - Mobile app control
 - OTP verification
+- security
