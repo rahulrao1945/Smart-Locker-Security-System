@@ -1,0 +1,9 @@
+# Wooden Locker Design
+
+- Rectangular wooden structure
+- Hidden internal wiring
+- Trapdoor at bottom side
+- Servo motors fixed with screws and glue
+- Hinged trapdoor mechanism
+- LCD and keypad mounted on front panel
+- Buzzer mounted on top side

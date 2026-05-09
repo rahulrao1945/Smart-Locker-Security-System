@@ -1,0 +1,20 @@
+#define BUZZER_PIN 23
+
+void setup() {
+  pinMode(VIBRATION_PIN, INPUT);
+  pinMode(BUZZER_PIN, OUTPUT);
+
+  Serial.begin(115200);
+}
+
+void loop() {
+  int sensorValue = digitalRead(VIBRATION_PIN);
+
+  if(sensorValue == HIGH) {
+    Serial.println("Vibration Detected!");
+    digitalWrite(BUZZER_PIN, HIGH);
+  }
+  else {
+    digitalWrite(BUZZER_PIN, LOW);
+  }
+}

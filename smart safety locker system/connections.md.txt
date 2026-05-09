@@ -1,0 +1,25 @@
+# ESP32 Connections
+
+## LCD
+- SDA → GPIO 21
+- SCL → GPIO 22
+
+## Servo Motors
+- Servo 1 → GPIO 18
+- Servo 2 → GPIO 19
+
+## Buzzer
+- GPIO 23
+
+## Vibration Sensor
+- GPIO 15
+
+## Keypad
+- R1 → 13
+- R2 → 12
+- R3 → 14
+- R4 → 27
+- C1 → 26
+- C2 → 25
+- C3 → 33
+- C4 → 32
