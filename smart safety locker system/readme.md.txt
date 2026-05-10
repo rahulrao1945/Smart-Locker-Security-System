@@ -20,6 +20,7 @@ Features:
 - Servo Motor x2
 - SW-420 Vibration Sensor
 - Buzzer
+- Wooden box
 - Breadboard
 - Jumper Wires
 - Wooden Locker Structure
